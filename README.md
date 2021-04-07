@@ -21,3 +21,4 @@ The translation was made possible thanks to kind permission of O'Reilly Media
 
 [Введение в Erlang. 2е издание](Introducing-Erlang-2nd.-Translation-to-Russian.pdf)
 
+[Code samples from Introducing Erlang, second edition](https://github.com/simonstl/introducing-erlang-2nd)
