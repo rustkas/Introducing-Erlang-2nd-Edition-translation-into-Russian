@@ -22,3 +22,5 @@ The translation was made possible thanks to kind permission of O'Reilly Media
 [Введение в Erlang. 2е издание](Introducing-Erlang-2nd.-Translation-to-Russian.pdf)
 
 [Code samples from Introducing Erlang, second edition](https://github.com/simonstl/introducing-erlang-2nd)
+
+[erlang-simple-string](https://github.com/rustkas/erlang-simple-string) _A wrapper library that attempts to make Erlang's string functions in the `string`, `lists`, `erlang`, and `re` modules seem coherent to beginners._
